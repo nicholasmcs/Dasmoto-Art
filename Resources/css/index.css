@@ -1,0 +1,38 @@
+
+h1 {
+    font-size:100px;
+    font-family: Helvetica;
+    font-weight:bold;
+    color:khaki;
+    text-align: center;
+    background-image:url("./images/pattern.jpeg");
+}
+
+.supplies{
+    font-family:helvetica;
+    font-size: 32px;
+    font-weight:bold;
+    color: white;
+}
+
+#product-link{
+    font-family:Helvetica;
+    font-weight:bold;
+    color: blue;
+}
+
+#brushes{
+    background-color: mediumspringgreen;
+}
+
+#frames{
+    background-color: lightcoral;
+}
+
+#paint{
+    background-color: skyblue;
+}
+
+#item-names, a {
+    font-weight: bold;
+}
